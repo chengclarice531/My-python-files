@@ -1,0 +1,43 @@
+import turtle
+#number 1
+turtle.right(90)
+turtle.forward(100)
+#space
+turtle.penup()
+turtle.left(90)
+turtle.forward(50)
+turtle.left(90)
+turtle.forward(100)
+turtle.pendown()
+turtle.right(90)
+#number 2
+turtle.forward(70)
+turtle.right(90)
+turtle.forward(50)
+turtle.right(90)
+turtle.forward(70)
+turtle.left(90)
+turtle.forward(50)
+turtle.left(90)
+turtle.forward(70)
+#space
+turtle.penup()
+turtle.left(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(50)
+turtle.pendown()
+#number 3
+turtle.forward(70)
+turtle.right(90)
+turtle.forward(50)
+turtle.right(90)
+turtle.forward(50)
+turtle.right(180)
+turtle.forward(50)
+turtle.right(90)
+turtle.forward(50)
+turtle.right(90)
+turtle.forward(70)
+
+turtle.exitonclick()

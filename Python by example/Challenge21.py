@@ -1,0 +1,5 @@
+firstname = input("Enter your first name: ")
+surname = input("Enter your surname: ")
+whole_name = firstname.capitalize() + " " + surname.capitalize()
+length = len(firstname) + len(surname)
+print(f" Your name is {whole_name}, with the length of {length}")
